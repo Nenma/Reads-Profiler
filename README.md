@@ -32,3 +32,5 @@ ommended.
 After establishing connection, at the start of the client application, the user is prompted for login/register with corresponding select options as either 1 or 2. After successfull login/register, the main user actions are listed as options ranging from 1 to 8, 8 being for logging out.
 
 Most of the actions produce a book list that are followed with a Y/N prompt for whether the user wants to download one the listed books or not.
+
+# THIS CODE DOES NOT WORK INDEPENDENTLY
