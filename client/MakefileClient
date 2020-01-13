@@ -1,0 +1,5 @@
+all:
+	gcc client.c -o client -lsqlite3
+	./client 127.0.0.1 2728
+clean:
+	rm -f client
